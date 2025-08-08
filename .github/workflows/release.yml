@@ -1,4 +1,4 @@
-name: 发行版本
+name: 发行版
 on:
   push:
     tags:
